@@ -1,0 +1,9 @@
+title: "What I would tell a team standing up evaluations for Claude"
+description: A field guide to measuring whether an LLM deployment works, and keeping that answer trustworthy
+url: https://kiwimaddog2020.github.io
+baseurl: /evaluating-claude
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-sitemap

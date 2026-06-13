@@ -1,6 +1,6 @@
 # evaluating-claude
 
-A short field guide to measuring whether an LLM deployment actually works, and
+A short field guide to telling whether an AI you have put into real work actually works, and
 keeping that answer trustworthy as the prompts and the models change underneath
 you. It is the advisory synthesis of four runnable write-ups; this repo is the
 guide, and the worked examples live in their own repositories.

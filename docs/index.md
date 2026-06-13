@@ -1,11 +1,11 @@
 ---
-title: "What I would tell a team standing up evaluations for Claude"
+title: "How to know if your AI is actually working"
 date: 2026-06-13
 ---
 
-# What I would tell a team standing up evaluations for Claude
+# How to know if your AI is actually working
 
-<p class="dek">How to know whether an AI you have shipped into real work is actually working, and how to keep that answer trustworthy when the prompts and the models shift underneath you.</p>
+<p class="dek">An AI can look like it is working and still be quietly wrong. Here is how I tell the difference on real shipped work, and how I keep that answer honest when the prompts and the models shift underneath me.</p>
 
 <p class="meta">Kevin Madson · June 2026 · 5 min read</p>
 

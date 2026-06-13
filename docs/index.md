@@ -135,3 +135,7 @@ is a number that lies by omission. Build those three in, and the model can chang
 underneath you without taking your confidence with it. That is the whole point of
 an eval: not to bless the work, but to be the thing that still tells you the
 truth after everything else has changed.
+
+---
+
+<p class="byline"><em>I build agentic systems across multiple coding LLMs. More of my research notes are <a href="/">here</a>.</em></p>

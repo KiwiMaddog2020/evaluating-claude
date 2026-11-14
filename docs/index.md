@@ -50,6 +50,15 @@ the rule that the doer never rates its own output, is
 [here](https://kiwimaddog2020.github.io/trust-weighted-evals/). First thing I would
 audit in your setup: is anything grading itself.
 
+*Updated November 2026.* I reran two of the experiments behind this rule on four
+current Claude models. Graders still leaned toward their own model's text, by about
+one point in a hundred, even against close relatives, so the rule stands. One thing
+got sharper: inside a single model family, a different tier caught no more planted
+bugs than the same model looking again in a fresh session. So "a different model"
+should mean a different family where you can get one, and a fresh session is the
+cheap first step when you cannot. Details are in
+[What changed since July](https://kiwimaddog2020.github.io/since-july/).
+
 ## 2. One score launders the tradeoff that matters
 
 A single number folds two unrelated questions into one. "Is this good" and "is this
@@ -112,8 +121,9 @@ half switched off, is [here](https://kiwimaddog2020.github.io/self-improvement-g
 
 If your team takes nothing else from this:
 
-- Nothing grades its own output. The reviewer is independent, from a different model,
-  assigned by the harness rather than by the work.
+- Nothing grades its own output. The reviewer is independent, from a different model
+  family where possible and at least a fresh session, assigned by the harness rather
+  than by the work.
 - Every score carries two axes, good and right-for-the-goal, and cites evidence. A
   grade with no fact under it gets marked down until it has one.
 - A fixed, no-AI check is the floor and it runs on every change. The expensive judges
